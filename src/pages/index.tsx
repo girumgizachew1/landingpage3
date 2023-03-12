@@ -5,7 +5,6 @@ import Navbar from '@/component/Navbar'
 import { useState, useEffect } from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import Feature from '@/component/feature';
-import Late from '@/component/late'
 export default function Home() {
   const [imageLoaded, setImageLoaded] = useState(false);
   const controls = useAnimation();
