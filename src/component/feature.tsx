@@ -147,7 +147,7 @@ function Feature() {
               style={{ fontFamily: 'Nosifer' }} 
      
               ref={ref1} // attach the ref to the motion.div element
-                >WE'VE NEVER BEEN SO CLOSE TO THE END</h1>
+                >WE HAVE NEVER BEEN SO CLOSE TO THE END</h1>
               <p className="mb-6  px-32 text-lg text-gray-400 " 
 >
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
